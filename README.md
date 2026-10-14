@@ -1,6 +1,6 @@
-Hi, I'm Daniel, a current senior at **The George Washington University**, double majoring in **Data Science and Information Systems**.🤓
+Hi, I'm Daniel, a current senior at **The George Washington University**, double majoring in **Data Science and Information Systems**.
 
-I'm passionate about software development, with a special interest in **cybersecurity**.
+I'm passionate about software development, with a special interest in **cybersecurity**.🤓
 
 Today's technical landscape is changing as fast as ever, with innovations popping up left and right and AI powered companies evolving every industry. 
 These new opportunities also bring new security challenges.
