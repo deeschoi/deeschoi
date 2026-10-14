@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Daniel, a current senior at **The George Washington University**, double majoring in **Data Science and Information Systems**.🤓
 
-<!--
-**deeschoi/deeschoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about software development, with a special interest in **cybersecurity**.
 
-Here are some ideas to get you started:
+Today's technical landscape is changing as fast as ever, with innovations popping up left and right and AI powered companies evolving every industry. 
+These new opportunities also bring new security challenges.
+In the midst of this exciting era, I'm want to help develop solutions that make technology more secure and resilient.😼✌️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of work, I also enjoy:
+- Swimming 🏊
+- Playing tennis (badly) and pickleball (less badly) 🎾
+- Producing music 🎹
+- Any Asian cuisines 🍜 
+- Watches ⏱️
+
+Feel free to reach out :)
