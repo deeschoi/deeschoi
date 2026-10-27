@@ -1,6 +1,6 @@
-Hi, I'm Daniel, a current senior at **The George Washington University**, double majoring in **Data Science and Information Systems**.
+Hi, I'm Daniel, a current senior at **George Washington University**, double majoring in **Data Science and Information Systems**.
 
-I'm passionate about software development, with a special interest in **cybersecurity**.🤓
+I'm passionate about software development, with a special interest in cybersecurity.🤓
 
 Today's technical landscape is changing as fast as ever, and these new opportunities are bringing new security challenges.
 
@@ -10,7 +10,7 @@ Outside of work, I also enjoy:
 - Swimming 🏊
 - Playing tennis (badly) and pickleball (less badly) 🎾
 - Producing music 🎹
-- Any Asian cuisines 🍜 
+- Any Asian cuisine 
 - Watches ⏱️
 
 Feel free to reach out :)
